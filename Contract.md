@@ -1,0 +1,4 @@
+通过node部署成功的合约
+Network : Rinkeby    Solc : 0.8.13
+部署账户：0xa641FBBC5bcD92e3B577899700e2D8F70D372C1d
+合约地址：0x0246B2F978725Be4B2A70E1286Da8cf0Ead0001b
